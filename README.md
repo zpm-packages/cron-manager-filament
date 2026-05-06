@@ -1,3 +1,5 @@
+<img width="2560" height="1440" alt="crons" src="https://github.com/user-attachments/assets/2eec459d-e10b-425b-8f49-5b1e1ae9b83e" />
+
 # Filament Cron Manager
 
 Filament plugin for `zpm-packages/cron-manager-laravel` that exposes cron management through the admin panel.
