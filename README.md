@@ -1,4 +1,4 @@
-<img width="2560" height="1440" alt="crons" src="https://github.com/user-attachments/assets/2eec459d-e10b-425b-8f49-5b1e1ae9b83e" />
+<img width="2560" height="1440" alt="crons" src="https://github.com/user-attachments/assets/2eec459d-e10b-425b-8f49-5b1e1ae9b83e" filament-hidden />
 
 # Filament Cron Manager
 
